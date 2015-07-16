@@ -47,6 +47,11 @@ Remove the editors you won't use. This course will not focus on the usage of the
 
 All language provide an entry point for the program to start. In Python the entry point is the start of the file. Python also provides an interpreter so you can type in and try out expression on the go.
 
+You can open `helloworld.py` which contains everything that is covered in this course. To run it you can either use Python or do it the UNIX way:
+
+	$ python3 ./helloworld.py # Works on Windows and Linux
+	$ ./helloworld.py         # Works on Linux and Cygwin (for Windows)
+
 ## Printing to STDOUT
 
 Printing to `STDOUT` (Standard Output) is simply printing text on the terminal. To do so the `print()` function is used and takes a `String` as the first argument.
