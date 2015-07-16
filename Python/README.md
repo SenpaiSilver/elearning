@@ -27,8 +27,8 @@ Requirements:
 What will you learn:
 
 * Program entry point;
-* Writing to STDOUT and why;
-* Writing to STDERR and why.
+* Printing to STDOUT and why;
+* Printing to STDERR and why.
 
 ## Chapter 02: Variables & types
 
@@ -41,8 +41,11 @@ What you will learn:
 
 What you will learn:
 
+* Defining and calling functions;
+* Defining function arguments;
 * `if`, `elif` and `else` conditions;
-* `while` and `for` loops.
+* `while` and `for` loops;
+* How to define a specific entry point.
 
 ## Chapter 03: Data Structures
 
@@ -69,3 +72,12 @@ What you will learn:
 * How to use a `class`;
 * How to import a `class`;
 * Why and when to use a `class`.
+
+## Chapter 06: Files and folders
+
+What you will learn:
+
+* How to create a file;
+* How to open an existing file;
+* How to read and write to a file;
+* How to list a folder's content.
