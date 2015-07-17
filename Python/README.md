@@ -17,8 +17,6 @@ Chapters
 ========
 ## Chapter 01: Hello World!
 
-### What will be covered?
-
 Requirements:
 
 * Python installation;
@@ -27,8 +25,8 @@ Requirements:
 What will you learn:
 
 * Program entry point;
-* Printing to STDOUT and why;
-* Printing to STDERR and why.
+* Printing to `STDOUT` and why;
+* Printing to `STDERR` and why.
 
 ## Chapter 02: Variables & types
 
@@ -45,7 +43,7 @@ What you will learn:
 * Defining function arguments;
 * `if`, `elif` and `else` conditions;
 * `while` and `for` loops;
-* How to define a specific entry point.
+* Defining program flow.
 
 ## Chapter 03: Data Structures
 
