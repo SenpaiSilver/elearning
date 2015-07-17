@@ -13,6 +13,10 @@ The core philosophy of the language can be summarized as:
 > 
 > Source: [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+This course will teach you what you need to learn about Python 3 if you read it carefully, try stuff and do research.
+
+Many details won't be covered or will be expected.
+
 Chapters
 ========
 ## Chapter 01: Hello World!
@@ -84,4 +88,5 @@ What you will learn:
 
 What you will learn:
 
-* `lambda` expressions.
+* `lambda` expressions;
+* Binary operators.
