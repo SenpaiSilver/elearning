@@ -79,3 +79,9 @@ What you will learn:
 * How to open an existing file;
 * How to read and write to a file;
 * How to list a folder's content.
+
+## Chapter ZZ: Advanced Python
+
+What you will learn:
+
+* `lambda` expressions.
