@@ -3,6 +3,10 @@ Hello World!
 
 In this chapter we will cover how to get started in Python. This course will focus on Python 3.
 
+We will also be using the default shebang:
+
+	#! /usr/bin/env python3
+
 ## Setting up Python 3
 
 Depending on your operating system you will need to download an installer, the source code or a precompiled version. This chapter covers installing Python 3 on Windows and Debian (Ubuntu and Mint).
